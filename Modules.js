@@ -1,1 +1,1 @@
-const MooMoo.io = 'hello'
+const MooMoo = 'hello'
