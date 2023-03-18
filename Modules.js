@@ -1,4 +1,4 @@
-class Client {
+class MooMoo {
   constructor(started) {
     this.socket = null;
     this.started = started;
